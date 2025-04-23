@@ -28,15 +28,9 @@ This project demonstrates parameter-efficient fine-tuning (PEFT) using QLoRA on 
 
 ## Requirements
 - Python 3.8+
-- `transformers`
-- `datasets`
-- `peft`
-- `torch`
-- (Optional) `bitsandbytes` for quantization
-
-Install dependencies with:
+- Install dependencies with:
 ```bash
-pip install transformers datasets peft torch
+pip install -r requirements.txt
 ```
 
 ## Usage

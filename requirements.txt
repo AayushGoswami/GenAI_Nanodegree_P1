@@ -1,0 +1,6 @@
+transformers
+peft
+datasets
+torch
+# Optional for quantization
+bitsandbytes
